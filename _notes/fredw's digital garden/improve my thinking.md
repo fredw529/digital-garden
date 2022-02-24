@@ -2,4 +2,4 @@
 title: improve my thinking
 ---
 
-testing 1234
+hi friends
