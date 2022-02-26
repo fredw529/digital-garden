@@ -13,4 +13,4 @@ Thanks to [@vaillancourtmax](https://twitter.com/vaillancourtmax)  for creating 
 
 If you're interested in starting your own, please read [this guide](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-Otherwise, [[_start here|start here]]
+Otherwise, [[start here]]
