@@ -2,9 +2,9 @@
 title: start here 🏡
 ---
 
-## [[book summaries]] 📖
+## 01. [[book summaries]] 📖
 ### most recent:
 
-## [[notes]] ✍️
+## 02. [[notes]] ✍️
 ### most recent:
 [[first post]]
